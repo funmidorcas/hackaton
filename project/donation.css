@@ -103,7 +103,7 @@ padding: 10px;
     margin-inline: 10px;
 
 }
-@media(max-width: 375px){
+@media(max-width: 480px){
     .shadow-box{
         box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
 margin: 10px; 
@@ -312,7 +312,7 @@ padding: 20px;
 gap: 10px;
 }
 
-@media(max-width: 375px){
+@media(max-width: 480px){
 footer{
     display: flex;
     flex-direction: column;
@@ -347,7 +347,7 @@ justify-content: start;
 #menu-toggle, #close-menu {
     display: none;  
 }
-@media (max-width: 375px) {
+@media (max-width: 480px) {
     .head {
         display: none;
         position: absolute;

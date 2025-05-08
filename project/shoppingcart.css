@@ -61,7 +61,7 @@ li, a {
      font-size: 20px; 
      margin-top: 18px;
 }
-@media(max-width: 375px){
+@media(max-width: 480px){
     .nav-list{
         font-size: 10px;
         gap: 2px;
@@ -100,7 +100,7 @@ li, a {
     border-radius: 10px;
     margin-top: 10px;
 }
-@media(max-width: 375px){
+@media(max-width: 480px){
 .shopping{
 gap: 5px;
 }
@@ -204,7 +204,7 @@ margin-inline: 10px;
 .delete{
     background: #fff;
 }
-@media(max-width: 375px){
+@media(max-width: 480px){
     .combine{
         display: flex;
         flex-direction: column;
@@ -364,7 +364,7 @@ padding-block: 3px;
 color: #fff;
 }
 
-@media(max-width: 375px){
+@media(max-width: 480px){
     .freg{
     font-size: 10px;
     }
@@ -479,7 +479,7 @@ padding: 20px;
 gap: 10px;
 }
 
-@media(max-width: 375px){
+@media(max-width: 480px){
 footer{
     display: flex;
     flex-direction: column;
